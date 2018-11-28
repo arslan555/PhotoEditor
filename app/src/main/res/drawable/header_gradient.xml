@@ -1,0 +1,15 @@
+<?xml version="1.0" encoding="utf-8"?>
+<layer-list xmlns:android="http://schemas.android.com/apk/res/android">
+
+    <item>
+        <shape>
+            <gradient
+                android:endColor="#60E1BB"
+                android:gradientRadius="304dp"
+                android:startColor="#1ED1A1"
+                android:type="linear" />
+        </shape>
+    </item>
+
+    <item android:drawable="@drawable/ic_bgstar_banner"></item>
+</layer-list>
